@@ -1,4 +1,5 @@
 function loop(times, callback) {
+  let times = times || 0;
 
   let i = 0;
 
